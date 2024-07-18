@@ -2,9 +2,9 @@
   "name": "weatherbot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "api/bot.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon api/bot.js"
   },
   "type": "module",
   "author": "",

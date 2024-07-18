@@ -1,5 +1,5 @@
 import { Client, GatewayIntentBits } from 'discord.js';
-import fetchapi from './fetch.js';
+import fetchapi from '../fetch.js';
 import dotenv from 'dotenv';
 
 
